@@ -2,6 +2,9 @@
 
 ![Gallery App Screenshot](./images/Page%20Screenshot.png)
 
+## Author
+Joel Nyongesa
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
