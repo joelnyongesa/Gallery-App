@@ -14,7 +14,7 @@
 
 The Gallery App is a web application developed for our Week 2 Catch-Up Session on July 27, 2023. It serves as a platform to showcase various art pieces, including details about the piece's name, owner, and price. The app also allows users to submit new pieces to the gallery through a form, and these submissions will be dynamically added to the existing collections displayed.
 
-![Gallery App](./images/app%20video.webm)
+![Gallery App](./images/project.gif)
 
 ## Features
 
@@ -27,7 +27,7 @@ The Gallery App is a web application developed for our Week 2 Catch-Up Session o
 
 1. Clone this repository to your local machine using the following command:
 
-`git clone https://github.com/your-username/gallery-app.git`
+`git clone https://github.com/joelnyongesa/Gallery-App.git`
 
 2. Navigate to the project directory
 
